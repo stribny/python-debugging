@@ -9,6 +9,8 @@ This project demonstrates various ways to debug Python programs:
 - [Debugging with VSCode](examples/debug_with_vscode.py)
 - [Debugging with stackprinter](examples/debug_with_stackprinter.py)
 
+Read the article: [Debugging Python programs](https://stribny.name/blog/2019/06/debugging-python-programs).
+
 ## Installation & Usage
 
 To install the project:
