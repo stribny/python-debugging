@@ -4,10 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-stackprinter = "*"
 pysnooper = "*"
+stackprinter = "*"
+pretty-errors = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.7"
+python_version = "^3.7"
